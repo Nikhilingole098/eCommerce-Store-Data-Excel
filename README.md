@@ -54,7 +54,7 @@ Clone this repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/eCommerce-Project.git
+git clone https://github.com/Nikhilingole098/eCommerce-Store-Data-Excel
 Open the Excel file to explore the data.
 
 Use Power BI/Tableau to create dashboards, or Excel pivot tables for summary reports.
